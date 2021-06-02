@@ -1,0 +1,153 @@
+body{
+    margin: 0;
+    background-color: #333333;
+}
+
+.button {
+    background-color: white; 
+    border: none;
+    color:#333333;
+    padding: 15px 32px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 16px;
+    margin-top: 10px;
+}
+.button:hover{
+    background-color: #ce1332;
+}
+.registerbtn:hover{
+    background-color: #ce1332;
+}
+
+.img1{
+    max-width: 20%;
+    height: auto;
+    margin: 20px;
+    
+}
+
+.franja{
+    background-color: white;
+}
+
+.top-cont{
+    width: 35%;
+    height: auto;
+    margin-left: 34%;
+    text-align: center;
+
+    
+}
+
+
+.franja{
+    background-color: white;
+    margin-top: 20px;
+}
+.logo1{
+    color: red;
+}
+.logo2{
+    font: 600% Verdana , Sans-serif;
+    color: white;
+    margin-bottom: 10px;
+
+}
+.h{
+    margin-bottom: 10px;
+    color: white;
+    font: 400% Verdana , Sans-serif;
+}
+.register{
+    width: 35%;
+    height: auto;
+    margin-left: 5%;
+    text-align: justify;
+    
+}
+form{
+    color: white;
+    font: 100% Verdana , Sans-serif;
+}
+a{
+    color:#ce1332 ;
+}
+.registerbtn{
+    background-color: white; 
+    border: none;
+    color:#333333;
+    padding: 15px 32px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 14px;
+    margin-top: 15px;
+    width: 30%;
+    height: auto;
+    
+}
+p{
+    color: white;
+    font: 100% Verdana , Sans-serif;
+
+}
+img{
+    max-width: 40%;
+    height: auto;
+    margin: 20px;
+    background-color: #333333;
+
+}
+.tweet-body{
+    width: 82%;
+    height: auto;
+    margin-left: 60px;
+}
+.tweet-body textarea{
+    width: 80%;
+    overflow: hidden;
+    margin-top: 40px;
+    height: 25px;
+    border: 1px solid red;
+    border-radius: 4px;
+    font-size: 14px;
+}
+.input{
+    margin-top: 20px;
+    width: 30%;
+    height: 25px;
+    
+}
+.perfilbutton{
+    margin-left: 70%;
+    margin-top: 50px;
+    position: absolute;
+}
+.hperfil{
+    margin-bottom: 10px;
+    color: white;
+    font: 400% Verdana , Sans-serif;
+    position: absolute;
+}
+.hr{
+    margin-top: 120px;
+}
+.perfildiv{
+    width: 300px;
+    height: auto;
+    margin-left: 5%;
+    text-align: justify;
+
+}
+.caja { 
+    font-family: sans-serif; 
+    font-size: 18px; 
+    font-weight: 400; 
+    color: #333333; 
+    background:white
+}
+
+
+
